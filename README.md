@@ -1,2 +1,3 @@
 # Window-Shopper-by-Devlopes
 # Febb 23 2018, 2:29 AM: Started the project ny creating an icon and managing the textfield. Created a class for textfield that'd set attributes. Placeholders are implented with NSAttributes. we used color literal, opacity, text color. Placeholder is the string that should be replaced when we input a text 
+# Febb 24 2018, 5:55 PM: Implemented a UIButton in the IOS keyboard. Set Background, color, and title. Used a function inputAccessoryView: It's a function that makes the IOS keyboard appear with the calculate button. In addTarget we used a #selector as action: #selector should be an objective-c implementation, SO later when we call a function, The function should be an Objective-C function.
